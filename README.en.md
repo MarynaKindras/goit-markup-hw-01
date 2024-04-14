@@ -4,7 +4,7 @@
 
 - Create a repository `goit-markup-hw-01`.
 - Make HTML markup for the
-  [**homework #1**](https://www.figma.com/file/5vQ5fIsm5p6Mfqhl0Ee2qB/Web-Studio-ENG?node-id=0%3A1)
+  [**homework #1**](https://www.figma.com/file/Kr5Q4EVrEAqpOWko4QeEJb/Web-Studio-(Version-4.0)?type=design&node-id=0-1&mode=design)
   page layout, without CSS styling.
 - Set up `GitHub Pages` and add a link to the live page in the header of the
   GitHub repository.
