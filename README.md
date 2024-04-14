@@ -4,7 +4,7 @@
 
 - Створи репозиторій `goit-markup-hw-01`.
 - Виконай HTML-розмітку макета сторінки
-  [**домашнього завдання #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>),
+  [**домашнього завдання #1**](https://www.figma.com/file/Kr5Q4EVrEAqpOWko4QeEJb/Web-Studio-(Version-4.0)?type=design&node-id=0-1&mode=design),
   без CSS оформлення.
 - Налаштуй `GitHub Pages` і додай посилання на живу сторінку в шапку
   GitHub-репозиторія.
